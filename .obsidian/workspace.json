@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5bbdce94a064de4f",
+        "id": "6ba08013e313b676",
         "type": "tabs",
         "children": [
           {
-            "id": "91c35900cf2bb529",
+            "id": "caf384d9fbdd51cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Memory Management.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Memory Management"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#asdfs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,28 +165,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "91c35900cf2bb529",
+  "active": "2cb422a29c1a6650",
   "lastOpenFiles": [
-    "Pasted image 20251102224344.png",
-    "Pasted image 20251102224145.png",
-    "Pasted image 20251102221730.png",
+    "Images/Pasted image 20251103000833.png",
+    "Virtual Memory Managment.md",
+    "Images/Pasted image 20251103000033.png",
+    "Pasted image 20251102235840.png",
+    "Process.md",
+    "Scheduling.md",
+    "Memory Management.md",
+    "Interrupt.md",
+    "Operating System.md",
+    "Images/Pasted image 20251102224344.png",
+    "Images/Pasted image 20251102224145.png",
+    "Images/Pasted image 20251102221730.png",
     "Hardware Protection.md",
     "Images/Screenshot_20251102_215203_Samsung Notes.jpg",
     "Pasted image 20251102213711.png",
-    "Memory Management.md",
     "Images/Pasted image 20251102205651.png",
     "Images/Pasted image 20251102205342.png",
-    "Images/Pasted image 20251102190958.png",
-    "Images/Pasted image 20251102190903.png",
-    "Images/Pasted image 20251102190831.png",
-    "Images/Pasted image 20251102135959.png",
-    "Scheduling.md",
     "Scheduling 1.md",
     "OS Structure.md",
-    "Operating System.md",
-    "Process.md",
     "Storage Device.md",
-    "Interrupt.md",
     "Images",
     "XV6/Interrupt.md",
     "XV6/Device Driver.md",
