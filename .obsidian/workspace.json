@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "049c831fe57960ae",
+        "id": "5bbdce94a064de4f",
         "type": "tabs",
         "children": [
           {
-            "id": "eb2364fa56fd042f",
+            "id": "91c35900cf2bb529",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Memory Management.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Memory Management"
             }
           }
         ]
@@ -165,27 +169,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "2cb422a29c1a6650",
+  "active": "91c35900cf2bb529",
   "lastOpenFiles": [
-    "Images/Pasted image 20251102171055.png",
-    "Images/Pasted image 20251102135959.png",
+    "Pasted image 20251102224344.png",
+    "Pasted image 20251102224145.png",
+    "Pasted image 20251102221730.png",
+    "Hardware Protection.md",
+    "Images/Screenshot_20251102_215203_Samsung Notes.jpg",
+    "Pasted image 20251102213711.png",
     "Memory Management.md",
+    "Images/Pasted image 20251102205651.png",
+    "Images/Pasted image 20251102205342.png",
+    "Images/Pasted image 20251102190958.png",
+    "Images/Pasted image 20251102190903.png",
+    "Images/Pasted image 20251102190831.png",
+    "Images/Pasted image 20251102135959.png",
     "Scheduling.md",
     "Scheduling 1.md",
     "OS Structure.md",
     "Operating System.md",
     "Process.md",
-    "Images/Pasted image 20251102134934.png",
     "Storage Device.md",
-    "Images/Pasted image 20251102102847.png",
-    "Images/Pasted image 20251102123606.png",
-    "Images/Pasted image 20251102123550.png",
-    "Images/Pasted image 20251102123531.png",
-    "Images/Pasted image 20251102123521.png",
     "Interrupt.md",
-    "Hardware Protection.md",
-    "Images/Pasted image 20251102101356.png",
-    "Images/Pasted image 20251101213923.png",
     "Images",
     "XV6/Interrupt.md",
     "XV6/Device Driver.md",
