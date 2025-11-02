@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "140d5fc32a89d45f",
+    "type": "split",
+    "children": [
+      {
+        "id": "049c831fe57960ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb2364fa56fd042f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "800d97f8a7f78835",
+    "type": "split",
+    "children": [
+      {
+        "id": "01d3722bb85bd46f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cb422a29c1a6650",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "08b5718446e4eabd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c3f740c012eb7b3e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "524931835891df09",
+    "type": "split",
+    "children": [
+      {
+        "id": "959261edfbbb5041",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8fc049a571fe841",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Timer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Timer"
+            }
+          },
+          {
+            "id": "f2b4794678dc49b7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Timer.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Timer"
+            }
+          },
+          {
+            "id": "42e91337ce532286",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "97a716a72dc4d561",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Timer.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Timer"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2cb422a29c1a6650",
+  "lastOpenFiles": [
+    "Images/Pasted image 20251102171055.png",
+    "Images/Pasted image 20251102135959.png",
+    "Memory Management.md",
+    "Scheduling.md",
+    "Scheduling 1.md",
+    "OS Structure.md",
+    "Operating System.md",
+    "Process.md",
+    "Images/Pasted image 20251102134934.png",
+    "Storage Device.md",
+    "Images/Pasted image 20251102102847.png",
+    "Images/Pasted image 20251102123606.png",
+    "Images/Pasted image 20251102123550.png",
+    "Images/Pasted image 20251102123531.png",
+    "Images/Pasted image 20251102123521.png",
+    "Interrupt.md",
+    "Hardware Protection.md",
+    "Images/Pasted image 20251102101356.png",
+    "Images/Pasted image 20251101213923.png",
+    "Images",
+    "XV6/Interrupt.md",
+    "XV6/Device Driver.md",
+    "XV6/Console.md",
+    "XV6/Timer.md",
+    "XV6/Scheduling.md",
+    "XV6/System Call.md",
+    "XV6/Process.md",
+    "XV6/Code/trap.c.md",
+    "XV6/Code/riscv.h.md",
+    "XV6/Code/init.c.md",
+    "XV6/Code",
+    "Welcome.md",
+    "XV6/DeviceDriver",
+    "XV6"
+  ]
+}
